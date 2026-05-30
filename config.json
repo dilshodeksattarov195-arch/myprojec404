@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedpdate",
+        "uuid": 355520,
+        "checksum": "uwrhl8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
